@@ -1,0 +1,380 @@
+SRS011061: stool
+SRS011090: buccal mucosa
+SRS011098: supragingival plaque
+SRS011126: supragingival plaque
+SRS011132: anterior nares
+SRS011134: stool
+SRS011140: tongue dorsum
+SRS011144: buccal mucosa
+SRS011152: supragingival plaque
+SRS011239: stool
+SRS011243: tongue dorsum
+SRS011247: buccal mucosa
+SRS011255: supragingival plaque
+SRS011263: anterior nares
+SRS011269: posterior fornix
+SRS011271: stool
+SRS011302: stool
+SRS011306: tongue dorsum
+SRS011310: buccal mucosa
+SRS011343: supragingival plaque
+SRS011355: posterior fornix
+SRS011397: anterior nares
+SRS011405: stool
+SRS011452: stool
+SRS011529: stool
+SRS011584: posterior fornix
+SRS011586: stool
+SRS012273: stool
+SRS012279: tongue dorsum
+SRS012281: buccal mucosa
+SRS012285: supragingival plaque
+SRS012291: anterior nares
+SRS012294: posterior fornix
+SRS012663: anterior nares
+SRS012902: stool
+SRS013155: anterior nares
+SRS013158: stool
+SRS013164: tongue dorsum
+SRS013170: supragingival plaque
+SRS013215: stool
+SRS013234: tongue dorsum
+SRS013239: buccal mucosa
+SRS013252: supragingival plaque
+SRS013269: anterior nares
+SRS013476: stool
+SRS013502: tongue dorsum
+SRS013506: buccal mucosa
+SRS013521: stool
+SRS013533: supragingival plaque
+SRS013542: posterior fornix
+SRS013637: anterior nares
+SRS013687: stool
+SRS013705: tongue dorsum
+SRS013711: buccal mucosa
+SRS013723: supragingival plaque
+SRS013800: stool
+SRS013818: tongue dorsum
+SRS013825: buccal mucosa
+SRS013836: supragingival plaque
+SRS013876: anterior nares
+SRS013879: tongue dorsum
+SRS013881: buccal mucosa
+SRS013945: buccal mucosa
+SRS013949: supragingival plaque
+SRS013951: stool
+SRS013956: anterior nares
+SRS014124: tongue dorsum
+SRS014126: buccal mucosa
+SRS014235: stool
+SRS014271: tongue dorsum
+SRS014287: stool
+SRS014313: stool
+SRS014459: stool
+SRS014464: anterior nares
+SRS014470: tongue dorsum
+SRS014472: buccal mucosa
+SRS014476: supragingival plaque
+SRS014494: posterior fornix
+SRS014573: tongue dorsum
+SRS014575: buccal mucosa
+SRS014578: supragingival plaque
+SRS014613: stool
+SRS014629: posterior fornix
+SRS014682: anterior nares
+SRS014683: stool
+SRS014684: tongue dorsum
+SRS014686: buccal mucosa
+SRS014690: supragingival plaque
+SRS014888: tongue dorsum
+SRS014890: buccal mucosa
+SRS014894: supragingival plaque
+SRS014901: anterior nares
+SRS014923: stool
+SRS014979: stool
+SRS015038: tongue dorsum
+SRS015040: buccal mucosa
+SRS015044: supragingival plaque
+SRS015051: anterior nares
+SRS015054: posterior fornix
+SRS015133: stool
+SRS015154: buccal mucosa
+SRS015158: supragingival plaque
+SRS015168: posterior fornix
+SRS015190: stool
+SRS015209: tongue dorsum
+SRS015215: supragingival plaque
+SRS015217: stool
+SRS015225: posterior fornix
+SRS015264: stool
+SRS015269: anterior nares
+SRS015272: tongue dorsum
+SRS015274: buccal mucosa
+SRS015278: supragingival plaque
+SRS015369: stool
+SRS015374: buccal mucosa
+SRS015378: supragingival plaque
+SRS015395: tongue dorsum
+SRS015425: posterior fornix
+SRS015430: anterior nares
+SRS015434: tongue dorsum
+SRS015436: buccal mucosa
+SRS015440: supragingival plaque
+SRS015450: anterior nares
+SRS015470: supragingival plaque
+SRS015537: tongue dorsum
+SRS015574: supragingival plaque
+SRS015578: stool
+SRS015640: anterior nares
+SRS015644: tongue dorsum
+SRS015646: buccal mucosa
+SRS015650: supragingival plaque
+SRS015663: stool
+SRS015745: buccal mucosa
+SRS015752: anterior nares
+SRS015755: supragingival plaque
+SRS015762: tongue dorsum
+SRS015782: stool
+SRS015893: tongue dorsum
+SRS015895: buccal mucosa
+SRS015899: supragingival plaque
+SRS015921: buccal mucosa
+SRS015937: anterior nares
+SRS015941: tongue dorsum
+SRS015947: supragingival plaque
+SRS015960: stool
+SRS015989: supragingival plaque
+SRS015996: anterior nares
+SRS016002: tongue dorsum
+SRS016018: stool
+SRS016033: anterior nares
+SRS016037: tongue dorsum
+SRS016039: buccal mucosa
+SRS016043: supragingival plaque
+SRS016056: stool
+SRS016086: tongue dorsum
+SRS016088: buccal mucosa
+SRS016092: supragingival plaque
+SRS016095: stool
+SRS016111: posterior fornix
+SRS016188: anterior nares
+SRS016191: posterior fornix
+SRS016196: buccal mucosa
+SRS016200: supragingival plaque
+SRS016203: stool
+SRS016225: tongue dorsum
+SRS016267: stool
+SRS016292: anterior nares
+SRS016297: buccal mucosa
+SRS016319: tongue dorsum
+SRS016331: supragingival plaque
+SRS016335: stool
+SRS016342: tongue dorsum
+SRS016349: buccal mucosa
+SRS016360: supragingival plaque
+SRS016434: anterior nares
+SRS016495: stool
+SRS016501: tongue dorsum
+SRS016503: buccal mucosa
+SRS016513: anterior nares
+SRS016516: posterior fornix
+SRS016529: tongue dorsum
+SRS016533: buccal mucosa
+SRS016553: anterior nares
+SRS016559: posterior fornix
+SRS016569: tongue dorsum
+SRS016575: supragingival plaque
+SRS016581: anterior nares
+SRS016585: stool
+SRS016600: buccal mucosa
+SRS016746: supragingival plaque
+SRS016752: anterior nares
+SRS016753: stool
+SRS016954: stool
+SRS016989: stool
+SRS017013: buccal mucosa
+SRS017025: supragingival plaque
+SRS017044: anterior nares
+SRS017080: buccal mucosa
+SRS017103: stool
+SRS017120: tongue dorsum
+SRS017127: buccal mucosa
+SRS017139: supragingival plaque
+SRS017156: anterior nares
+SRS017191: stool
+SRS017209: tongue dorsum
+SRS017215: buccal mucosa
+SRS017227: supragingival plaque
+SRS017244: anterior nares
+SRS017247: stool
+SRS017304: supragingival plaque
+SRS017307: stool
+SRS017433: stool
+SRS017439: tongue dorsum
+SRS017441: buccal mucosa
+SRS017445: supragingival plaque
+SRS017451: anterior nares
+SRS017497: posterior fornix
+SRS017511: supragingival plaque
+SRS017520: posterior fornix
+SRS017521: stool
+SRS017533: tongue dorsum
+SRS017537: buccal mucosa
+SRS017687: buccal mucosa
+SRS017691: supragingival plaque
+SRS017697: anterior nares
+SRS017700: posterior fornix
+SRS017701: stool
+SRS017713: tongue dorsum
+SRS017808: tongue dorsum
+SRS017810: buccal mucosa
+SRS017814: supragingival plaque
+SRS017820: anterior nares
+SRS017821: stool
+SRS018133: stool
+SRS018145: tongue dorsum
+SRS018149: buccal mucosa
+SRS018157: supragingival plaque
+SRS018300: tongue dorsum
+SRS018312: anterior nares
+SRS018329: buccal mucosa
+SRS018337: supragingival plaque
+SRS018351: stool
+SRS018357: tongue dorsum
+SRS018359: buccal mucosa
+SRS018369: anterior nares
+SRS018394: supragingival plaque
+SRS018427: stool
+SRS018439: tongue dorsum
+SRS018463: anterior nares
+SRS018573: supragingival plaque
+SRS018575: stool
+SRS018585: anterior nares
+SRS018591: tongue dorsum
+SRS018656: stool
+SRS018661: buccal mucosa
+SRS018665: supragingival plaque
+SRS018671: anterior nares
+SRS018739: tongue dorsum
+SRS018769: posterior fornix
+SRS018778: supragingival plaque
+SRS018784: anterior nares
+SRS018791: tongue dorsum
+SRS018817: stool
+SRS019215: anterior nares
+SRS019219: tongue dorsum
+SRS019221: buccal mucosa
+SRS019225: supragingival plaque
+SRS019267: stool
+SRS019327: tongue dorsum
+SRS019329: buccal mucosa
+SRS019333: supragingival plaque
+SRS019339: anterior nares
+SRS019379: posterior fornix
+SRS019386: anterior nares
+SRS019387: supragingival plaque
+SRS019389: tongue dorsum
+SRS019391: buccal mucosa
+SRS019397: stool
+SRS019587: buccal mucosa
+SRS019591: supragingival plaque
+SRS019597: anterior nares
+SRS019600: posterior fornix
+SRS019601: stool
+SRS019607: tongue dorsum
+SRS019968: stool
+SRS019974: tongue dorsum
+SRS019976: buccal mucosa
+SRS019980: supragingival plaque
+SRS019986: anterior nares
+SRS019989: posterior fornix
+SRS020220: tongue dorsum
+SRS020226: supragingival plaque
+SRS020232: anterior nares
+SRS020233: stool
+SRS020328: stool
+SRS020334: tongue dorsum
+SRS020336: buccal mucosa
+SRS020340: supragingival plaque
+SRS020349: posterior fornix
+SRS020386: anterior nares
+SRS020856: tongue dorsum
+SRS020858: buccal mucosa
+SRS020862: supragingival plaque
+SRS020868: anterior nares
+SRS020869: stool
+SRS022137: stool
+SRS022143: tongue dorsum
+SRS022145: buccal mucosa
+SRS022149: supragingival plaque
+SRS022158: posterior fornix
+SRS022530: tongue dorsum
+SRS022532: buccal mucosa
+SRS022536: supragingival plaque
+SRS022719: tongue dorsum
+SRS022721: buccal mucosa
+SRS022725: supragingival plaque
+SRS022734: posterior fornix
+SRS023346: stool
+SRS023352: tongue dorsum
+SRS023354: buccal mucosa
+SRS023358: supragingival plaque
+SRS042428: posterior fornix
+SRS042457: buccal mucosa
+SRS042643: tongue dorsum
+SRS043001: stool
+SRS043646: buccal mucosa
+SRS043663: tongue dorsum
+SRS043755: supragingival plaque
+SRS044373: tongue dorsum
+SRS045004: stool
+SRS045049: buccal mucosa
+SRS045254: buccal mucosa
+SRS045262: buccal mucosa
+SRS045313: supragingival plaque
+SRS045713: stool
+SRS046344: anterior nares
+SRS047824: tongue dorsum
+SRS048164: stool
+SRS048719: buccal mucosa
+SRS049389: tongue dorsum
+SRS049712: stool
+SRS049900: stool
+SRS049959: stool
+SRS050007: buccal mucosa
+SRS050025: anterior nares
+SRS050029: buccal mucosa
+SRS050184: posterior fornix
+SRS050244: tongue dorsum
+SRS050628: buccal mucosa
+SRS050752: stool
+SRS051244: supragingival plaque
+SRS051505: posterior fornix
+SRS051613: anterior nares
+SRS051941: supragingival plaque
+SRS052227: tongue dorsum
+SRS052330: posterior fornix
+SRS052590: anterior nares
+SRS052604: supragingival plaque
+SRS052697: stool
+SRS052876: supragingival plaque
+SRS053335: stool
+SRS053398: stool
+SRS053437: anterior nares
+SRS053854: tongue dorsum
+SRS054061: anterior nares
+SRS054590: stool
+SRS054653: supragingival plaque
+SRS054687: tongue dorsum
+SRS054956: stool
+SRS055118: buccal mucosa
+SRS055401: supragingival plaque
+SRS055426: tongue dorsum
+SRS056323: tongue dorsum
+SRS056695: posterior fornix
+SRS057539: tongue dorsum
+SRS057791: tongue dorsum
+SRS057807: posterior fornix
+SRS058053: supragingival plaque
+SRS058213: anterior nares
+SRS058808: supragingival plaque

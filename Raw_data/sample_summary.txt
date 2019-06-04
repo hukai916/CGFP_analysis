@@ -1,0 +1,16 @@
+Input filename	Ie_485_170_colored_ssn.xgmml
+Identify/Quantify ID	2184/2154
+Identify search type	DIAMOND
+Reference database	UNIREF90
+CD-HIT identity for ShortBRED family definition	85
+Quantify search type	USEARCH
+Time Started -- Finished	5/4 10:37 PM -- 5/5 07:02 AM
+Number of SSN clusters	40
+Number of SSN singletons	62
+SSN sequence source	UniProt
+Number of SSN (meta)nodes	485
+Number of accession IDs in SSN	485
+Number of unique sequences in SSN	358
+Number of CD-HIT ShortBRED families	87
+Number of markers	381
+Number of consensus sequences with hits	30
